@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TTA_GSA",
+			"Path": "F:\\gitRep\\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\\GameSubmissionAssignment\\TTA_GSA\\Source\\TTA_GSA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TTA_GSAEditor",
+			"Path": "F:\\gitRep\\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\\GameSubmissionAssignment\\TTA_GSA\\Source\\TTA_GSAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

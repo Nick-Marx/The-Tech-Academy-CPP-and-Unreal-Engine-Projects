@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TTA_GSA.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3DC80B66-0894-4954-B139-A81E5E6A88CD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TTA_GSA.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TTA_GSAEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2D0A9C12-90C1-4D52-8598-D3D8E4525AB5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TTA_GSA">
+      <UniqueIdentifier>{063068F6-F858-4FEA-B325-E1108B8E089B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TTA_GSA\TTA_GSA.Build.cs">
+      <Filter>Source\TTA_GSA</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TTA_GSA\TTA_GSA.cpp">
+      <Filter>Source\TTA_GSA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TTA_GSA\TTA_GSA.h">
+      <Filter>Source\TTA_GSA</Filter>
+    </ClInclude>
+    <Filter Include="Source\TTA_GSA\Private">
+      <UniqueIdentifier>{3A8E13AE-DA7B-4AC9-A385-2E78CCBEF3A2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TTA_GSA\Private\BoxMove.cpp">
+      <Filter>Source\TTA_GSA\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TTA_GSA\Private\MazeGameModeBase.cpp">
+      <Filter>Source\TTA_GSA\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TTA_GSA\Private\PlayerBlock.cpp">
+      <Filter>Source\TTA_GSA\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TTA_GSA\Public">
+      <UniqueIdentifier>{A6C48ECE-E9AA-4E21-BD8F-6F55A97AD46A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TTA_GSA\Public\BoxMove.h">
+      <Filter>Source\TTA_GSA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TTA_GSA\Public\MazeGameModeBase.h">
+      <Filter>Source\TTA_GSA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TTA_GSA\Public\PlayerBlock.h">
+      <Filter>Source\TTA_GSA\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

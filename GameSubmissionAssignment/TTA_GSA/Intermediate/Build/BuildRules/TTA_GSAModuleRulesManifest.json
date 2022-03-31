@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\gitRep\\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\\GameSubmissionAssignment\\TTA_GSA\\Source\\TTA_GSA\\TTA_GSA.Build.cs",
+		"F:\\gitRep\\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\\GameSubmissionAssignment\\TTA_GSA\\Source\\TTA_GSA.Target.cs",
+		"F:\\gitRep\\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\\GameSubmissionAssignment\\TTA_GSA\\Source\\TTA_GSAEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

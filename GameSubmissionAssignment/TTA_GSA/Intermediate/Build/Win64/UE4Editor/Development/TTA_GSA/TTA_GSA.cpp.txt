@@ -1,0 +1,2 @@
+F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\Definitions.TTA_GSA.h
+F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Source\TTA_GSA\TTA_GSA.h

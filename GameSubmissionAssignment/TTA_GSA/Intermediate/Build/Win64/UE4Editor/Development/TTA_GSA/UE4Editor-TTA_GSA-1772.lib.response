@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TTA_GSA-1772.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\TTA_GSAEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\MyGameModeBase.cpp.obj"
+"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\PlayerAction.cpp.obj"
+"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\TTA_GSA.cpp.obj"
+"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\MyGameModeBase.gen.cpp.obj"
+"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\PlayerAction.gen.cpp.obj"
+"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\TTA_GSA.init.gen.cpp.obj"
+"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\Default.rc2.res"
+/OUT:"F:\gitRep\The-Tech-Academy-CPP-and-Unreal-Engine-Projects\GameSubmissionAssignment\TTA_GSA\Intermediate\Build\Win64\UE4Editor\Development\TTA_GSA\UE4Editor-TTA_GSA-1772.lib"
